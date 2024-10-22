@@ -1,5 +1,6 @@
 # My Ansible [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-test in jenkins 1022
+test in jenkins 1022_v2
+
 Ansible roles / playbooks to setup some tools like [Docker](https://www.docker.com/), [Jenkins](https://jenkins.io/), and etc. on Linux machine. Currently only support [Ubuntu 14.04](http://releases.ubuntu.com/14.04/).
 
 ## Table of content
